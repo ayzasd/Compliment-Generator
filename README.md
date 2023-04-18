@@ -9,3 +9,7 @@ The function for creating the "compliment" is:
  joke()
  ```
  in `compliments.py`.
+
+ # Running
+ wow, i'm suprised you want to run this piece of absolute garbage.
+ just download it as a zip folder, extract it, and upload it to replit to run there.
